@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Two-Wheel Trivia Quiz</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Start Screen -->
+    <div id="start-screen" class="center">
+      <h2>Welcome to the Two-Wheel Trivia Quiz!</h2>
+      <button id="start-button">Start Quiz</button>
+    </div>
+
+    <div id="app">
+      <!-- Quiz Header -->
+      <header>
+        <h1>Two-Wheel Trivia</h1>
+        <div id="progress-bar">
+          <div id="progress"></div>
+        </div>
+      </header>
+
+      <!-- Quiz Content -->
+      <main>
+        <section id="question-container">
+          <p id="question">Loading question...</p>
+          <div id="choices">
+            <button class="choice">Choice 1</button>
+            <button class="choice">Choice 2</button>
+            <button class="choice">Choice 3</button>
+          </div>
+        </section>
+      </main>
+
+      <!-- Quiz Footer -->
+      <footer>
+        <div id="timer">
+          <i class="fas fa-clock"></i> <span id="time">10</span>s
+        </div>
+        <div id="score">Score: 0</div>
+
+        <div id="end-game-container">
+          <button id="retry-button">Retry Quiz</button>
+          <div id="high-score-container">
+            <p id="high-score">High Score: 0</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What does 'CC' stand for in motorcycles?",
+    "choices": [
+      "Cubic Centimeters",
+      "Central Control",
+      "Cycle Capacity",
+      "Cruiser Cable"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which motorcycle brand produces the Hayabusa?",
+    "choices": ["Yamaha", "Suzuki", "Honda", "BMW"],
+    "correct": 1
+  },
+  {
+    "question": "Which country is known for the Ise of Man TT races",
+    "choices": ["United States", "United Kingdom", "Italy", "Denmark"],
+    "correct": 1
+  },
+  {
+    "question": "Which motorcycle brand is known for its 'Ninja' series?",
+    "choices": ["Honda", "Yamaha", "Kawasaki", "Suzuki"],
+    "correct": 2
+  },
+  {
+    "question": "What is the top speed of the Dodge Tomahawk motorcycle?",
+    "choices": ["200 mph", "350 mph", "250 mph", "400 mph"],
+    "correct": 2
+  },
+  {
+    "question": "Which country is home to the famous Ducati motorcycle factory?",
+    "choices": ["Italy", "USA", "Japan", "Germany"],
+    "correct": 0
+  },
+  {
+    "question": "What year was Harley-Davidson founded?",
+    "choices": ["1903", "1892", "1910", "1922"],
+    "correct": 0
+  },
+  {
+    "question": "Which of these motorcycles is electric?",
+    "choices": [
+      "Kawasaki Ninja ZX-10R",
+      "Harley-Davidson LiveWire",
+      "Yamaha YZF-R1",
+      "BMW S1000RR"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the rider known as 'The Doctor' in MotoGP?",
+    "choices": [
+      "Valentino Rossi",
+      "Marc Marquez",
+      "Jorge Lorenzo",
+      "Maverick Vinales"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What was the first Japanese motorcycle brand?",
+    "choices": ["Yamaha", "Honda", "Suzuki", "Kawasaki"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a cruiser motorcycle?",
+    "choices": [
+      "Yamaha R1",
+      "Harley-Davidson Softail",
+      "Kawasaki Ninja",
+      "Suzuki GSX-R"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the displacement of the BMW S1000RR engine?",
+    "choices": ["1000cc", "900cc", "1200cc", "800cc"],
+    "correct": 0
+  },
+  {
+    "question": "What type of motorcycle is the Honda CBR1000RR?",
+    "choices": ["Cruiser", "Sportbike", "Touring", "Dirtbike"],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest motorcycle manufacturer in the world?",
+    "choices": ["Harley-Davidson", "Honda", "Yamaha", "Suzuki"],
+    "correct": 1
+  },
+  {
+    "question": "What year was the first Ducati Panigale launched?",
+    "choices": ["2010", "2012", "2009", "2015"],
+    "correct": 1
+  },
+  {
+    "question": "Which motorcycle brand is known for its V-twin engines?",
+    "choices": ["Honda", "Harley-Davidson", "Kawasaki", "Suzuki"],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the famous Ducati superbike?",
+    "choices": ["V4", "Panigale V2", "Monster 1200", "Diavel"],
+    "correct": 1
+  },
+  {
+    "question": "What year did the Yamaha YZF-R1 first come out?",
+    "choices": ["1995", "2000", "2003", "1998"],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following motorcycles has the highest horsepower?",
+    "choices": [
+      "Kawasaki ZX-10R",
+      "Honda CBR1000RR",
+      "BMW S1000RR",
+      "Yamaha YZF-R1"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the flagship sportbike model of Suzuki?",
+    "choices": ["GSX-R1000", "Hayabusa", "GSX-S1000", "V-Strom"],
+    "correct": 0
+  },
+  {
+    "question": "Which motorcycle is known as the 'King of the Road'?",
+    "choices": [
+      "Harley-Davidson Electra Glide",
+      "Honda Gold Wing",
+      "Indian Scout",
+      "BMW R1250GS"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main characteristic of a dirt bike?",
+    "choices": [
+      "Road tires",
+      "Off-road capabilities",
+      "Large engine displacement",
+      "Luxury features"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which motorcycle is known for its revolutionary design and the first to use a monocoque frame?",
+    "choices": ["Yamaha YZF-R1", "Bimota Tesi", "Kawasaki H2", "Ducati 999"],
+    "correct": 1
+  },
+  {
+    "question": "Which motorcycle manufacturer produces the 'V-Strom' series?",
+    "choices": ["Honda", "Kawasaki", "Suzuki", "BMW"],
+    "correct": 2
+  }
+]
